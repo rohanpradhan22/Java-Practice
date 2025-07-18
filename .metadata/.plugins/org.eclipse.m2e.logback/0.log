@@ -1,0 +1,6 @@
+2025-07-05 11:13:05,036 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-07-05 11:20:30,012 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/am/ik/archetype/mvc-1.0-blank-archetype/1.0.0-m02/mvc-1.0-blank-archetype-1.0.0-m02.pom
+2025-07-05 11:20:30,379 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/am/ik/archetype/mvc-1.0-blank-archetype/1.0.0-m02/mvc-1.0-blank-archetype-1.0.0-m02.pom
+2025-07-05 11:20:30,501 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/am/ik/archetype/mvc-1.0-blank-archetype/1.0.0-m02/mvc-1.0-blank-archetype-1.0.0-m02.jar
+2025-07-05 11:20:30,613 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/am/ik/archetype/mvc-1.0-blank-archetype/1.0.0-m02/mvc-1.0-blank-archetype-1.0.0-m02.jar
+2025-07-18 22:24:02,527 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
